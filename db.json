@@ -1,0 +1,148 @@
+{
+  "resumes": [
+    {
+      "name": "sn",
+      "location": "",
+      "jobTitle": "Machine Learning Engineer",
+      "email": "",
+      "contactNumber": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": 9
+    },
+    {
+      "name": "sneha",
+      "location": "thrissur",
+      "jobTitle": "Software Developer",
+      "email": "snehasidharth2006@gmail.com",
+      "contactNumber": "9072838519",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+      "id": 13
+    },
+    {
+      "name": "sneha r",
+      "location": "thrissur",
+      "jobTitle": "Digital Marketing Specialist",
+      "email": "",
+      "contactNumber": "",
+      "linkedin": "",
+      "github": "",
+      "degree": "",
+      "college": "",
+      "year": "",
+      "skills": [
+        "SEO",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Google Analytics",
+        "PPC Advertising",
+        "Campaign Management",
+        "Keyword Research",
+        "Marketing Strategy",
+        "Conversion Optimization"
+      ],
+      "summary": "Digital marketing specialist skilled in SEO, social media marketing, and campaign management to increase brand visibility and customer engagement.",
+      "id": 14
+    }
+  ],
+  "history": [
+    {
+      "resumeDetails": {
+        "name": "sneha r",
+        "location": "thrissur",
+        "jobTitle": "Digital Marketing Specialist",
+        "email": "",
+        "contactNumber": "",
+        "linkedin": "",
+        "github": "",
+        "degree": "",
+        "college": "",
+        "year": "",
+        "skills": [
+          "SEO",
+          "Social Media Marketing",
+          "Content Marketing",
+          "Email Marketing",
+          "Google Analytics",
+          "PPC Advertising",
+          "Campaign Management",
+          "Keyword Research",
+          "Marketing Strategy",
+          "Conversion Optimization"
+        ],
+        "summary": "Digital marketing specialist skilled in SEO, social media marketing, and campaign management to increase brand visibility and customer engagement.",
+        "id": 14
+      },
+      "id": 1795648720429,
+      "resumeId": 14,
+      "formatedDate": "25/11/2026,15:18:39",
+      "imageURL": "https://res.cloudinary.com/e4gosb1q/image/upload/v1795600071/efft9isnfvtvfqt4e4bv.png"
+    },
+    {
+      "resumeDetails": {
+        "name": "sneha",
+        "location": "thrissur",
+        "jobTitle": "Software Developer",
+        "email": "snehasidharth2006@gmail.com",
+        "contactNumber": "9072838519",
+        "linkedin": "",
+        "github": "",
+        "degree": "",
+        "college": "",
+        "year": "",
+        "skills": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "Object-Oriented Programming",
+          "Data Structures",
+          "Algorithms",
+          "Git",
+          "REST APIs",
+          "Debugging",
+          "Software Testing"
+        ],
+        "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+        "id": 13
+      },
+      "id": 1795728928697,
+      "resumeId": 13,
+      "formatedDate": "26/11/2026,13:35:25",
+      "imageURL": "https://res.cloudinary.com/e4gosb1q/image/upload/v1795680278/f2htck9iuwuyt6xm6g2f.png"
+    }
+  ]
+}
